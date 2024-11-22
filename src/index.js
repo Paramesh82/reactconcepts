@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import Index from './usState/final/3-usestate-ex1';
+import Index from './usState/final/4-usestate-ex2';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
